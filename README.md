@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Bharath Vyas</h1>
+<h1 align="center">👋 Hello There, I'm Bharath Vyas</h1>
 <p align="center">
   <b>Fullstack Developer | MERN Enthusiast | Tech Explorer</b>
 </p>
