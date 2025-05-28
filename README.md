@@ -1,10 +1,98 @@
-<h1 align="center">Hi 👋, I'm Vyas</h1>
-<h3 align="center">Full Stack Programmer</h3>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/iamvyas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="iamvyas" height="30" width="40" /></a>
+<h1 align="center">👋 Hello, I'm Bharath Vyas</h1>
+<p align="center">
+  <b>Fullstack Developer | MERN Enthusiast | Tech Explorer</b>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:sbvyas07@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/iamvyas"><img src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/iamvyas"><img src="https://img.shields.io/badge/github-%2312100E?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://iamvyas.github.io/me/"><img src="https://img.shields.io/badge/portfolio-%23ff6600?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+</p>
+
+---
+
+## 🚀 Projects
+
+### 📁 File Sharing Application  
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Multer  
+A real-time file sharing and messaging platform with virtual rooms. Users can join rooms to exchange text and upload files securely. Ideal for collaboration, study groups, and remote teamwork.
+
+### 🐦 Twitter Clone  
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js  
+A full-featured Twitter replica with user auth, tweet creation, likes, and follow system. Built with MERN stack for responsiveness and real-time interaction.
+
+---
+
+## 💼 Experience
+
+### Infosys — *Digital Specialist Engineer*  
+**Oct 2022 – Jan 2025**  
+- Migrated Spring apps from WebSphere to Liberty
+- Rewrote UI from Spring Tiles to JAF-Tiles
+- Refactored and modernized backend codebase
+- Added test cases for reliability
+
+### MVDS Industries — *Fullstack Developer Intern*  
+**May 2021**  
+- Built a Django-based web system for syncing industrial data with Excel sheets
+
+---
+
+## 🎓 Education
+
+**Sri Venkateswara College of Engineering, Anna University**  
+Bachelor of Engineering in Computer Science — *CGPA: 8.43/10*  
+**Chennai, India | Aug 2018 – May 2022**
+
+---
+
+## 🛠️ Skills
+
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-%23009639?style=flat-square&logo=nginx&logoColor=white)
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
+
+### ☁️ Tools & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+---
+
+## 📚 Research
+
+🧠 *Handwritten Tamil Character Recognition Using Deep Neural Networks*  
+- Funded by TNSCST (Tamil Nadu State Council for Science and Technology)  
+- Published in *International Journal of Computer Science Trends and Technology (IJCST)*, August 2022
+
+---
+
+### 📞 Contact
+
+📧 sbvyas07@gmail.com  
+🌐 [iamvyas.github.io/me](https://iamvyas.github.io/me/)  
+📱 +91 9940699617
+
+---
+
+⭐ If you like my work, feel free to ⭐ the repo and connect!
