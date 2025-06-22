@@ -18,9 +18,9 @@
 **Tech Stack:** MongoDB, Express.js, React.js, Node.js, Multer  
 A real-time file sharing and messaging platform with virtual rooms. Users can join rooms to exchange text and upload files securely. Ideal for collaboration, study groups, and remote teamwork.
 
-### 🐦 Twitter Clone  
-**Tech Stack:** MongoDB, Express.js, React.js, Node.js  
-A full-featured Twitter replica with user auth, tweet creation, likes, and follow system. Built with MERN stack for responsiveness and real-time interaction.
+### 🐦 SMART ORDER PROCESSING SYSTEM  
+**Tech Stack:**  MONGODB , SPRINGBOOT , KAFKA , RABBITMQ , DOCKER 
+Developed a Spring Boot–based order management microservice with MongoDB integration and RESTful APIs. Implemented DTO separation, service-repository pattern, and Dockerized MongoDB backend. Enabled full CRUD for orders and ensured scalable architecture with modular code structure, laying the foundation for Kafka-driven event communication across microservices.
 
 ---
 
@@ -64,6 +64,9 @@ Bachelor of Engineering in Computer Science — *CGPA: 8.43/10*
 ![Express](https://img.shields.io/badge/Express-%23000000?style=flat-square&logo=express&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-%23009639?style=flat-square&logo=nginx&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-%23000000?style=flat-square&logo=apache-kafka&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
 
 ### 🎨 Frontend
 ![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
