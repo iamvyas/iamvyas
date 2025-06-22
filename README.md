@@ -19,7 +19,8 @@
 A real-time file sharing and messaging platform with virtual rooms. Users can join rooms to exchange text and upload files securely. Ideal for collaboration, study groups, and remote teamwork.
 
 ### 🐦 SMART ORDER PROCESSING SYSTEM  
-**Tech Stack:**  MONGODB , SPRINGBOOT , KAFKA , RABBITMQ , DOCKER 
+**Tech Stack:**  MONGODB , SPRINGBOOT , KAFKA , RABBITMQ , DOCKER
+
 Developed a Spring Boot–based order management microservice with MongoDB integration and RESTful APIs. Implemented DTO separation, service-repository pattern, and Dockerized MongoDB backend. Enabled full CRUD for orders and ensured scalable architecture with modular code structure, laying the foundation for Kafka-driven event communication across microservices.
 
 ---
