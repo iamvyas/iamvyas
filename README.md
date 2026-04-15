@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello There, I'm Bharath Vyas</h1>
 <p align="center">
-  <b>Fullstack Developer | Proactive SWE | Pushing the bounds </b>
+  <b>Fullstack Developer | SWE | Pushing the bounds </b>
 </p>
 
 <p align="center">
