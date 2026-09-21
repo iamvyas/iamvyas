@@ -1,271 +1,103 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Vyas</title>
-  <style>
-    * {
-      margin: 0;
-      padding: 0;
-      box-sizing: border-box;
-    }
-    
-    body {
-      font-family: 'Courier New', Courier, monospace;
-      background: #fafafa;
-      color: #111;
-      line-height: 1.6;
-      max-width: 720px;
-      margin: 0 auto;
-      padding: 3rem 1.5rem;
-    }
-    
-    h1 {
-      font-size: 1.8rem;
-      font-weight: 400;
-      letter-spacing: -0.02em;
-      margin-bottom: 0.25rem;
-    }
-    
-    .subtitle {
-      color: #555;
-      font-size: 0.95rem;
-      margin-bottom: 1.5rem;
-    }
-    
-    .links {
-      display: flex;
-      flex-wrap: wrap;
-      gap: 1rem;
-      margin-bottom: 2.5rem;
-      font-size: 0.9rem;
-    }
-    
-    .links a {
-      color: #111;
-      text-decoration: none;
-      border-bottom: 1px solid #ccc;
-      padding-bottom: 1px;
-    }
-    
-    .links a:hover {
-      border-bottom-color: #111;
-    }
-    
-    hr {
-      border: none;
-      border-top: 1px solid #e0e0e0;
-      margin: 2.5rem 0;
-    }
-    
-    h2 {
-      font-size: 1.1rem;
-      font-weight: 400;
-      letter-spacing: 0.05em;
-      text-transform: uppercase;
-      color: #333;
-      margin-bottom: 1.25rem;
-    }
-    
-    h3 {
-      font-size: 1rem;
-      font-weight: 400;
-      margin-bottom: 0.35rem;
-    }
-    
-    .tech {
-      color: #666;
-      font-size: 0.85rem;
-      margin-bottom: 0.6rem;
-    }
-    
-    p {
-      margin-bottom: 1rem;
-      color: #333;
-    }
-    
-    .job {
-      margin-bottom: 1.75rem;
-    }
-    
-    .job-meta {
-      color: #666;
-      font-size: 0.9rem;
-      margin-bottom: 0.5rem;
-    }
-    
-    ul {
-      padding-left: 1.25rem;
-      margin-top: 0.4rem;
-    }
-    
-    li {
-      margin-bottom: 0.3rem;
-      color: #333;
-    }
-    
-    .skills-grid {
-      display: grid;
-      gap: 1.25rem;
-    }
-    
-    .skill-group h4 {
-      font-size: 0.85rem;
-      font-weight: 400;
-      color: #555;
-      margin-bottom: 0.4rem;
-      text-transform: uppercase;
-      letter-spacing: 0.04em;
-    }
-    
-    .skill-list {
-      color: #333;
-      font-size: 0.95rem;
-    }
-    
-    .contact {
-      margin-top: 0.5rem;
-    }
-    
-    .contact p {
-      margin-bottom: 0.3rem;
-    }
-    
-    .contact a {
-      color: #111;
-      text-decoration: none;
-      border-bottom: 1px solid #ccc;
-    }
-    
-    .contact a:hover {
-      border-bottom-color: #111;
-    }
-    
-    footer {
-      margin-top: 3rem;
-      font-size: 0.85rem;
-      color: #777;
-    }
-  </style>
-</head>
-<body>
+<h1 align="center">👋 Hello There, I'm Vyas</h1>
+<p align="center">
+  <b>Fullstack Developer | SWE | Pushing the bounds </b>
+</p>
 
-  <h1>Hello There, I'm Vyas</h1>
-  <p class="subtitle">Fullstack Developer | SWE | Pushing the bounds</p>
-  
-  <div class="links">
-    <a href="mailto:sbvyas07@gmail.com">email</a>
-    <a href="https://www.linkedin.com/in/iamvyas">linkedin</a>
-    <a href="https://github.com/iamvyas">github</a>
-    <a href="https://iamvyas.github.io/me/">portfolio</a>
-  </div>
+<p align="center">
+  <a href="mailto:sbvyas07@gmail.com"><img src="https://img.shields.io/badge/email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/iamvyas"><img src="https://img.shields.io/badge/linkedin-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/iamvyas"><img src="https://img.shields.io/badge/github-%2312100E?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://iamvyas.github.io/me/"><img src="https://img.shields.io/badge/portfolio-%23ff6600?style=for-the-badge&logo=firefox-browser&logoColor=white" /></a>
+</p>
 
-  <hr>
+---
 
-  <h2>Projects</h2>
+## 🚀 Projects
 
-  <div class="job">
-    <h3>File Sharing Application</h3>
-    <p class="tech">MongoDB · Express.js · React.js · Node.js · Multer</p>
-    <p>A real-time file sharing and messaging platform with virtual rooms. Users can join rooms to exchange text and upload files securely. Ideal for collaboration, study groups, and remote teamwork.</p>
-  </div>
+### 📁 File Sharing Application  
+**Tech Stack:** MongoDB, Express.js, React.js, Node.js, Multer  
 
-  <div class="job">
-    <h3>Smart Order Processing System</h3>
-    <p class="tech">MongoDB · Spring Boot · Kafka · RabbitMQ · Docker</p>
-    <p>Developed a Spring Boot–based order management microservice with MongoDB integration and RESTful APIs. Implemented DTO separation, service-repository pattern, and Dockerized MongoDB backend. Enabled full CRUD for orders and ensured scalable architecture with modular code structure, laying the foundation for Kafka-driven event communication across microservices.</p>
-  </div>
+A real-time file sharing and messaging platform with virtual rooms. Users can join rooms to exchange text and upload files securely. Ideal for collaboration, study groups, and remote teamwork.
 
-  <hr>
+### 🐦 SMART ORDER PROCESSING SYSTEM  
+**Tech Stack:**  MONGODB , SPRINGBOOT , KAFKA , RABBITMQ , DOCKER
 
-  <h2>Experience</h2>
+Developed a Spring Boot–based order management microservice with MongoDB integration and RESTful APIs. Implemented DTO separation, service-repository pattern, and Dockerized MongoDB backend. Enabled full CRUD for orders and ensured scalable architecture with modular code structure, laying the foundation for Kafka-driven event communication across microservices.
 
-  <div class="job">
-    <h3>Infosys — Digital Specialist Engineer</h3>
-    <p class="job-meta">Oct 2022 – Jan 2025</p>
-    <ul>
-      <li>Migrated Spring apps from WebSphere to Liberty</li>
-      <li>Rewrote UI from Spring Tiles to JAF-Tiles</li>
-      <li>Refactored and modernized backend codebase</li>
-      <li>Added test cases for reliability</li>
-    </ul>
-  </div>
+---
 
-  <div class="job">
-    <h3>MVDS Industries — Fullstack Developer Intern</h3>
-    <p class="job-meta">May 2021</p>
-    <ul>
-      <li>Built a Django-based web system for syncing industrial data with Excel sheets</li>
-    </ul>
-  </div>
+## 💼 Experience
 
-  <hr>
+### Infosys — *Digital Specialist Engineer*  
+**Oct 2022 – Jan 2025**  
+- Migrated Spring apps from WebSphere to Liberty
+- Rewrote UI from Spring Tiles to JAF-Tiles
+- Refactored and modernized backend codebase
+- Added test cases for reliability
 
-  <h2>Education</h2>
+### MVDS Industries — *Fullstack Developer Intern*  
+**May 2021**  
+- Built a Django-based web system for syncing industrial data with Excel sheets
 
-  <div class="job">
-    <h3>Sri Venkateswara College of Engineering, Anna University</h3>
-    <p class="job-meta">Bachelor of Engineering in Computer Science — CGPA: 8.43/10</p>
-    <p>Chennai, India | Aug 2018 – May 2022</p>
-  </div>
+---
 
-  <hr>
+## 🎓 Education
 
-  <h2>Skills</h2>
+**Sri Venkateswara College of Engineering, Anna University**  
+Bachelor of Engineering in Computer Science — *CGPA: 8.43/10*  
+**Chennai, India | Aug 2018 – May 2022**
 
-  <div class="skills-grid">
-    <div class="skill-group">
-      <h4>Languages</h4>
-      <p class="skill-list">Java · JavaScript · Python</p>
-    </div>
-    
-    <div class="skill-group">
-      <h4>Databases</h4>
-      <p class="skill-list">MySQL · SQLite · MongoDB</p>
-    </div>
-    
-    <div class="skill-group">
-      <h4>Backend</h4>
-      <p class="skill-list">Node.js · Express · Spring Boot · NGINX · Kafka · RabbitMQ</p>
-    </div>
-    
-    <div class="skill-group">
-      <h4>Frontend</h4>
-      <p class="skill-list">React · TailwindCSS · Bootstrap · HTML · CSS</p>
-    </div>
-    
-    <div class="skill-group">
-      <h4>Tools & DevOps</h4>
-      <p class="skill-list">AWS · Docker · Bash</p>
-    </div>
-  </div>
+---
 
-  <hr>
+## 🛠️ Skills
 
-  <h2>Research</h2>
+### 💻 Languages
+![Java](https://img.shields.io/badge/Java-%23ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 
-  <div class="job">
-    <h3>Handwritten Tamil Character Recognition Using Deep Neural Networks</h3>
-    <ul>
-      <li>Funded by TNSCST (Tamil Nadu State Council for Science and Technology)</li>
-      <li>Published in International Journal of Computer Science Trends and Technology (IJCST), August 2022</li>
-    </ul>
-  </div>
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-%2300f?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-%2307405e?style=flat-square&logo=sqlite&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248?style=flat-square&logo=mongodb&logoColor=white)
 
-  <hr>
+### 🔧 Backend
+![Node.js](https://img.shields.io/badge/Node.js-%23339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-%23000000?style=flat-square&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-%236DB33F?style=flat-square&logo=spring-boot&logoColor=white)
+![NGINX](https://img.shields.io/badge/NGINX-%23009639?style=flat-square&logo=nginx&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-%23000000?style=flat-square&logo=apache-kafka&logoColor=white)  
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
-  <h2>Contact</h2>
 
-  <div class="contact">
-    <p>sbvyas07@gmail.com</p>
-    <p><a href="https://iamvyas.github.io/me/">iamvyas.github.io/me</a></p>
-    <p>+91 9940699617</p>
-  </div>
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white)
 
-  <footer>
-    If you like my work, feel free to star the repo and connect.
-  </footer>
+### ☁️ Tools & DevOps
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED?style=flat-square&logo=docker&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-%234EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-</body>
-</html>
+---
+
+## 📚 Research
+
+🧠 *Handwritten Tamil Character Recognition Using Deep Neural Networks*  
+- Funded by TNSCST (Tamil Nadu State Council for Science and Technology)  
+- Published in *International Journal of Computer Science Trends and Technology (IJCST)*, August 2022
+
+---
+
+### 📞 Contact
+
+📧 sbvyas07@gmail.com  
+🌐 [iamvyas.github.io/me](https://iamvyas.github.io/me/)  
+📱 +91 9940699617
+
+---
+
+⭐ If you like my work, feel free to ⭐ the repo and connect!
